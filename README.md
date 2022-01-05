@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ritachao
+- 👋 Hi, I’m ytchao
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning c++ while still using c# in unity
 
