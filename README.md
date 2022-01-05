@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ytchao1129
+- 👋 Hi, I’m ritachao
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning c++ while still using c# in unity
 
