@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ytchao
-- 👀 I’m interested in game developing
-- 🌱 I’m currently learning c++ while still using c# in unity
+- 🌱 I’m currently learning c++ and swift
+- 🐈 Used to be a unity game developer in  
 
 - 📫 How to reach me : rita70924@gmail.com
 
