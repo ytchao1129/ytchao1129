@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ytchao
-- 🌱 I’m currently learning c++ and swift
-- 🐈 Used to be a unity game developer
+- 🌱 I’m currently learning c++ and python
+- 🐈 Want to be a software developer
 
 - 📫 How to reach me : rita70924@gmail.com
 
