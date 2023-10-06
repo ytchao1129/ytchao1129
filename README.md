@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ytchao
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning c, c++, c# and ssd info.
 - 🐈 Want to be a software developer
 
 - 📫 How to reach me : rita70924@gmail.com
